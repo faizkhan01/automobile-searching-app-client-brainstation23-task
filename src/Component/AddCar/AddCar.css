@@ -1,0 +1,8 @@
+button.Button-add-car-form.mb-5.btn.btn-primary {
+    padding: 10px 200px;
+}
+
+.bg{
+    background-image: url(../LandingPage/bg.jpg);
+    background-size: cover;
+}

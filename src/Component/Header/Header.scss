@@ -1,0 +1,28 @@
+.ml-auto.navbar-nav a {
+    padding: 0 20px;
+    color:white;
+    font-weight: 500;
+}
+.header {
+    background: blueviolet;
+}
+a.navbar-brand {
+    color: white !important;
+}
+
+.animate-navbar {
+    box-shadow: 1px 1px 1px #222;
+    animation: moveDown 0.5s ease-in-out;
+  }
+
+.logo {
+
+    img{
+    
+      max-width: 70px;
+      max-height: 60px;
+      
+      border-radius: 50px;
+    }
+    
+  }
